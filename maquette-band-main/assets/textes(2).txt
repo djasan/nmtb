@@ -1,0 +1,61 @@
+
+
+New York
+The atmosphere in New York is lorem ipsum.
+
+THE BAND
+We love music
+
+We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Name
+
+Random Name
+Name
+
+Random Name
+Name
+
+Random Name
+TOUR DATES
+!
+
+
+September Sold out
+October Sold out
+November3
+New York
+New York
+
+Fri 27 Nov 2016
+
+Praesent tincidunt sed tellus ut rutrum sed vitae justo.
+
+Paris
+Paris
+
+Sat 28 Nov 2016
+
+Praesent tincidunt sed tellus ut rutrum sed vitae justo.
+
+San Francisco
+San Francisco
+
+Sun 29 Nov 2016
+
+Praesent tincidunt sed tellus ut rutrum sed vitae justo.
+
+CONTACT
+Fan? Drop a note!
+
+ Chicago, US
+ Phone: +00 151515
+ Email: mail@mail.com
+Name
+Email
+Message
+
+     
+Powered by w3.css
+4
+<div class="imgheader"><img src="./assets/css/la.jpg" alt="header band"></div>
