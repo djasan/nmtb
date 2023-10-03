@@ -58,4 +58,3 @@ Message
      
 Powered by w3.css
 4
-<div class="imgheader"><img src="./assets/css/la.jpg" alt="header band"></div>
